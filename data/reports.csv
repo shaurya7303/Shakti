@@ -1,0 +1,101 @@
+timestamp,description,amount,merchant_type,location
+2025-10-30 17:06:08,Routine merchant report,1436.35,ecommerce,India
+2025-10-17 07:21:08,High amount + unusual location,11507.14,ecommerce,International
+2025-09-05 01:39:08,Routine merchant report,368.68,luxury,India
+2025-10-09 10:40:08,Routine merchant report,303.34,retail,India
+2025-09-29 19:37:08,Routine merchant report,86.45,retail,India
+2025-11-02 21:35:08,Routine merchant report,86.44,upi,International
+2025-08-21 07:04:08,User-reported dispute: duplicate charge,38.46,luxury,UK
+2025-08-24 03:43:08,Routine merchant report,434.43,ecommerce,USA
+2025-09-05 15:38:08,User-reported dispute: duplicate charge,304.55,bank,UK
+2025-10-15 13:02:08,Routine merchant report,356.96,upi,UK
+2025-10-04 08:12:08,Routine merchant report,20.09,retail,India
+2025-09-02 21:37:08,High UPI amount,11699.1,upi,USA
+2025-09-08 23:48:08,Routine merchant report,417.9,luxury,UAE
+2025-08-29 12:29:08,Routine merchant report,114.05,ecommerce,USA
+2025-08-17 15:46:08,Routine merchant report,99.09,upi,International
+2025-10-24 00:53:08,Routine merchant report,3834.05,luxury,UK
+2025-08-25 05:00:08,Routine merchant report,159.08,retail,International
+2025-09-04 21:55:08,User-reported dispute: duplicate charge,267.13,luxury,USA
+2025-10-05 07:50:08,User-reported dispute: duplicate charge,6319.45,retail,UAE
+2025-09-06 10:45:08,Suspicious merchant + mobile device + odd hour,152.7,luxury,India
+2025-09-20 07:54:08,High amount + unusual location,2029.63,upi,International
+2025-08-22 03:25:08,Routine merchant report,78.35,luxury,USA
+2025-11-10 20:18:08,User-reported dispute: duplicate charge,1230.36,upi,India
+2025-10-15 11:56:08,User-reported dispute: duplicate charge,189.52,bank,India
+2025-10-16 21:45:08,Routine merchant report,1640.17,retail,India
+2025-09-22 08:47:08,High amount + unusual location,2462.94,luxury,International
+2025-11-06 17:12:08,Routine merchant report,107.84,ecommerce,UAE
+2025-10-13 08:41:08,Routine merchant report,261.97,ecommerce,India
+2025-11-04 00:02:08,Routine merchant report,1981.04,bank,UAE
+2025-11-12 11:54:08,Routine merchant report,32.76,luxury,India
+2025-09-23 13:43:08,Routine merchant report,307.7,bank,USA
+2025-09-02 17:08:08,Routine merchant report,926.31,upi,UK
+2025-09-05 13:06:08,Routine merchant report,41.88,bank,UK
+2025-10-24 13:21:08,User-reported dispute: duplicate charge,474.95,ecommerce,International
+2025-09-23 10:57:08,Routine merchant report,483.16,bank,India
+2025-08-20 20:17:08,Routine merchant report,406.11,luxury,International
+2025-10-27 17:12:08,User-reported dispute: duplicate charge,1261.53,retail,USA
+2025-11-01 12:19:08,User-reported dispute: duplicate charge,57.86,retail,India
+2025-09-27 05:43:08,Routine merchant report,345.27,retail,USA
+2025-10-05 17:47:08,Routine merchant report,225.67,luxury,UK
+2025-09-04 10:36:08,User-reported dispute: duplicate charge,69.8,bank,UK
+2025-09-09 23:37:08,Routine merchant report,252.64,bank,UK
+2025-11-13 04:04:08,User-reported dispute: duplicate charge,26.85,ecommerce,India
+2025-09-03 14:46:08,User-reported dispute: duplicate charge,455.57,retail,USA
+2025-09-04 10:26:08,User-reported dispute: duplicate charge,136.8,bank,International
+2025-08-18 07:11:08,User-reported dispute: duplicate charge,334.64,retail,UK
+2025-10-24 08:57:08,Routine merchant report,162.74,luxury,UAE
+2025-10-13 06:43:08,Routine merchant report,264.83,bank,UK
+2025-10-19 00:31:08,Routine merchant report,277.89,ecommerce,UAE
+2025-10-02 05:58:08,User-reported dispute: duplicate charge,100.58,bank,USA
+2025-10-02 14:46:08,Routine merchant report,485.1,retail,UK
+2025-09-19 03:07:08,Routine merchant report,9751.33,retail,USA
+2025-10-20 06:51:08,Routine merchant report,470.35,upi,International
+2025-08-20 04:14:08,Routine merchant report,448.47,ecommerce,International
+2025-09-22 16:35:08,Routine merchant report,302.97,ecommerce,UK
+2025-08-26 20:34:08,Routine merchant report,461.72,bank,UAE
+2025-08-27 18:33:08,Routine merchant report,721.23,ecommerce,UK
+2025-10-22 17:48:08,User-reported dispute: duplicate charge,106.03,upi,USA
+2025-08-19 05:39:08,Routine merchant report,32.16,luxury,UK
+2025-08-27 12:24:08,Routine merchant report,1313.33,bank,India
+2025-10-25 18:09:08,User-reported dispute: duplicate charge,200.45,luxury,USA
+2025-09-08 00:50:08,Routine merchant report,1178.37,ecommerce,UAE
+2025-09-06 21:15:08,Routine merchant report,416.08,ecommerce,UAE
+2025-09-17 09:06:08,Routine merchant report,184.81,upi,International
+2025-09-07 23:13:08,User-reported dispute: duplicate charge,147.66,upi,UK
+2025-10-03 21:48:08,User-reported dispute: duplicate charge,1856.74,upi,India
+2025-09-21 01:32:08,Routine merchant report,79.05,bank,UAE
+2025-08-30 16:52:08,Routine merchant report,403.08,upi,India
+2025-10-06 01:59:08,Routine merchant report,2745.51,luxury,UAE
+2025-09-18 23:52:08,Routine merchant report,493.57,upi,International
+2025-09-06 13:55:08,Routine merchant report,388.4,upi,USA
+2025-09-15 09:50:08,Suspicious merchant + mobile device + odd hour,107.37,luxury,India
+2025-10-01 02:36:08,Routine merchant report,513.81,retail,UAE
+2025-09-05 13:31:08,User-reported dispute: duplicate charge,409.58,upi,UK
+2025-11-10 19:44:08,User-reported dispute: duplicate charge,356.36,ecommerce,India
+2025-09-27 09:15:08,Routine merchant report,367.21,upi,India
+2025-10-04 20:10:08,Routine merchant report,9712.7,ecommerce,USA
+2025-08-25 07:47:08,Routine merchant report,2740.45,upi,UAE
+2025-11-08 03:19:08,Routine merchant report,185.65,retail,International
+2025-09-12 11:26:08,Routine merchant report,3158.69,retail,India
+2025-08-22 06:14:08,Routine merchant report,2657.76,upi,USA
+2025-08-30 06:33:08,Routine merchant report,315.42,luxury,UAE
+2025-09-01 19:11:08,Routine merchant report,1327.25,ecommerce,UK
+2025-09-29 06:32:08,User-reported dispute: duplicate charge,658.9,ecommerce,UAE
+2025-11-03 07:07:08,Routine merchant report,162.38,luxury,UK
+2025-09-17 14:48:08,User-reported dispute: duplicate charge,169.34,luxury,USA
+2025-09-13 21:20:08,Routine merchant report,367.51,upi,USA
+2025-10-05 06:39:08,User-reported dispute: duplicate charge,322.4,luxury,UK
+2025-10-21 08:40:08,Routine merchant report,444.73,bank,UK
+2025-10-07 07:30:08,User-reported dispute: duplicate charge,241.39,retail,International
+2025-09-04 05:09:08,Routine merchant report,798.99,ecommerce,International
+2025-09-13 00:32:08,User-reported dispute: duplicate charge,359.49,upi,India
+2025-09-22 23:49:08,Routine merchant report,9607.85,ecommerce,UK
+2025-11-03 07:46:08,Routine merchant report,285.03,ecommerce,USA
+2025-09-17 00:34:08,Routine merchant report,387.77,upi,International
+2025-11-01 08:13:08,User-reported dispute: duplicate charge,251.96,upi,UK
+2025-10-24 14:27:08,Routine merchant report,1806.83,ecommerce,USA
+2025-08-15 05:09:08,Routine merchant report,6275.41,luxury,UAE
+2025-08-29 17:02:08,Routine merchant report,22.46,ecommerce,USA
+2025-10-26 12:50:08,User-reported dispute: duplicate charge,62.87,upi,India

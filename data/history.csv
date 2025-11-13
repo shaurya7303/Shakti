@@ -1,0 +1,25 @@
+timestamp,amount,merchant_type,device_type,location,hour,prediction,flags,xgb_proba,bert_proba,meta_proba
+2025-11-03 07:18:59,40000.0,ecommerce,mobile,India,14,0,,,,
+2025-11-03 10:46:11,456090.0,online,pos,USA,4,0,,,,
+2025-11-03 10:49:53,4000.0,bank,pos,UAE,22,1,,,,
+2025-11-03 10:55:11,40000.0,ecommerce,mobile,India,10,0,,,,
+2025-11-03 10:55:26,4900.0,bank,pos,UK,22,1,,,,
+2025-11-03 11:04:54,7890.0,ecommerce,mobile,India,6,0,,,,
+2025-11-03 11:05:11,89000.0,retail,pos,USA,19,0,,,,
+2025-11-03 11:05:21,90000.0,ecommerce,mobile,USA,23,1,,,,
+2025-11-03 11:07:46,120000.0,bank,desktop,UK,20,0,,,,
+2025-11-03 11:15:52,789007.0,retail,mobile,UK,20,0,,,,
+2025-11-03 11:16:05,45678.0,bank,mobile,India,23,1,,,,
+2025-11-03 11:20:41,56789.0,bank,desktop,India,23,1,,,,
+2025-11-03 11:31:37,789000.0,ecommerce,desktop,India,22,1,High amount + unusual location,,,
+2025-11-03 11:36:13,567890.0,retail,pos,USA,23,1,High amount + unusual location,,,
+2025-11-03 11:44:48,53000.0,ecommerce,mobile,USA,23,1,High amount + unusual location,,,
+2025-11-03 11:45:07,34500.0,ecommerce,mobile,India,22,1,High amount + unusual location,,,
+2025-11-03 12:15:41,7800.0,ecommerce,mobile,UAE,22,1,High amount + unusual location,,,
+2025-11-03 12:30:44,89000.0,bank,mobile,India,22,1,High amount + unusual location,,,
+2025-11-04 20:17:24,100.0,ecommerce,mobile,India,2,0,,,,
+2025-11-04 20:31:40,7000.0,ecommerce,mobile,India,2,1,High amount + unusual location,,,
+2025-11-07 11:01:38,1200.0,ecommerce,mobile,India,1,1,High amount + unusual location,,,
+2025-11-13 21:51:04,100.0,ecommerce,mobile,India,12,0,,6.658546044491231e-05,0.0074831978417932,0.0131502094197545
+2025-11-13 22:01:10,100.0,ecommerce,mobile,India,12,0,,6.658546044491231e-05,0.0074831978417932,0.0131502094197545
+2025-11-13 22:01:13,100.0,ecommerce,mobile,India,12,0,None,6.658546044491231e-05,0.007483197841793299,0.013150209419754545
