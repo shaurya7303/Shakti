@@ -61,3 +61,9 @@ logs/
 
 .DS_Store
 Thumbs.db
+
+model/bert_model/pytorch_model.bin
+model/bert_model/model.safetensors
+model/meta_logreg.pkl
+model/xgb_tabular.pkl
+data/*.csv
